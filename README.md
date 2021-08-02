@@ -17,7 +17,17 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 #### Playdate SDK
 > ⚠️ The Playdate SDK is not yet released to the public. Consider using [LÖVE](https://love2d.org/), which provides a similar API to the Playdate SDK
 
-#### LÖVE 2D
+- [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator
+- [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno) 
+
+#### LÖVE
+> The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d)
+
+#### Noble Engine
+> Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features
+- [Noble Engine on GitHub](https://github.com/NobleRobot/NobleEngine)
+- [Noble Engine Documentation](https://noblerobot.github.io/NobleEngine/)
 
 ### C
 > ⚠️ The Playdate SDK is not yet released to the public. Consider using Lua's [LÖVE](https://love2d.org/), which provides a similar API to the Playdate SDK
@@ -29,7 +39,12 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 ### Physics
 ### Input
 
-# Social Media 
+# Social Media
+
+## Forums & Groups
+- [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/)
+- 
+
 ## Panic!
 - [@playdate Twitter](https://twitter.com/playdate/)
 - [@playdateAlerts Twitter](https://twitter.com/playdateAlerts)
@@ -40,10 +55,29 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 
 # Development Blogs
 - [Daily Driver](https://blog.gingerbeardman.com/tag/dailydriver/)
+- [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
 - [Playdate Developers Site](https://play.date/dev)
 - [Playdate Store](https://shop.play.date/)
+- [Panic Official Site](https://panic.com/)
+- [Panic Podcasts](https://podcast.panic.com/)
+- [Panic Blog](https://panic.com/blog/)
+- [Teenage Engineering](https://teenage.engineering/)
+- [Playdate Media Kit & FAQ](https://play.date/mediakit/)
 
 # Discord
+
+# News, Background, and Fluff
+
+## News articles & videos
+- ▶️ [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY)
+- 
+
+## Panic & TE Announcements
+- [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
+- [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
+- [Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
+- [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
+- [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
