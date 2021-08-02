@@ -9,7 +9,7 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 
 ## Programming Frameworks & Languages
 
-### Pulp & Pulpscript
+### Pulp + Pulpscript
 > A "no-code alternative to the full SDK", Pulp provides a "click-and-place" game editor right in your browser.
 
 > ⚠️ &nbsp; Pulp and Pulpscript are not yet released to the public.
@@ -39,13 +39,19 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 ### C
 > ⚠️ &nbsp; The Playdate SDK is not yet released to the public. Consider using Lua's [LÖVE](https://love2d.org/), which provides a similar API to the Playdate SDK
 
+### Rust
+> ⚠️ &nbsp; The Playdate currently has no plans for official Rust support
+
+- [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust
+
 ## Development Concepts
 
 ### Game Programming Patterns
 - [Game Programming Patterns (book)](https://gameprogrammingpatterns.com/) - The Web version is free
 
-### Dithering
+### Graphics & Art
 - [Stabilized dithering using sphere mapping](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) (_Return of the Obra Dinn_)
+- [Playdate Art: Scale](https://donaldhays.com/2019/12/30/playdate-art-scale/) - Important notes on designing sprites, fonts, and tiles for the Playdate
 
 ### Procedural Generation
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
@@ -72,6 +78,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [@RNGParty](https://twitter.com/RNGParty) - Developing [_Poly's Roly Rumble_](https://twitter.com/RNGParty/status/1296842756023820289)
 - [@veubeke](https://twitter.com/veubeke) - Developing [_Down the Oubliette_](https://twitter.com/veubeke/status/1293216739111718913)
 - [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
+- [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory
 
 ## Reddit
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic
@@ -83,6 +90,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Crankin's Time Travel Adventure](https://uvula.jp/crankin) - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 - [Poly's Roly Rumble](https://www.patreon.com/rngparty) - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
 - [Mars after Midnight](https://dukope.itch.io/mars-after-midnight) - [Devlog](https://dukope.itch.io/mars-after-midnight)
+- [Klondike Solitaire for Playdate](https://github.com/rtsuk/crankstart-klondike)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
