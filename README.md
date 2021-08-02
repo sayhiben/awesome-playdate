@@ -59,6 +59,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en)
 - [Matt Sephton (@gingerbeardman)](https://twitter.com/gingerbeardman) - Developing [_Daily Driver_](https://blog.gingerbeardman.com/tag/dailydriver/)
 - [Frank Jonen (@frankjonen)](https://twitter.com/frankjonen) - Developing [_Silverball Tactics_](https://silverballtactics.com/)
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [Crankin's Time Travel Adventure](https://uvula.jp/crankin)
 
 ## Reddit
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic
@@ -67,6 +68,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - Daily Driver - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/), [Patreon](https://www.patreon.com/dailydriver)
 - [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
 - [Silverball Tactics](https://silverballtactics.com/) - [YouTube](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
+- [Crankin's Time Travel Adventure](https://uvula.jp/crankin) - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
