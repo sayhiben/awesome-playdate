@@ -56,8 +56,12 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter
 - [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news
 - [@panic](https://twitter.com/panic) - Official Panic Twitter
+- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en)
 - [Matt Sephton (@gingerbeardman)](https://twitter.com/gingerbeardman) - Developing [_Daily Driver_](https://blog.gingerbeardman.com/tag/dailydriver/)
 - [Frank Jonen (@frankjonen)](https://twitter.com/frankjonen) - Developing [_Silverball Tactics_](https://silverballtactics.com/)
+
+## Reddit
+- [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic
 
 # Playdate Games & Dev Blogs
 - Daily Driver - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/), [Patreon](https://www.patreon.com/dailydriver)
@@ -82,6 +86,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 ## Panic & TE Announcements
 - ▶️ &nbsp; [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
 - ▶️ &nbsp; [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
-- ▶️ &nbsp; [Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
-- 🔉 &nbsp; [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
+- 🔉 &nbsp; [2021-07-29] [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
+- ▶️ &nbsp; [2021-06-08] [Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
 - [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
+- [2019-06-01] [Small Wonder: Edge Magazine's Playdate Cover Story](https://imgur.com/a/CWMNBvI)
