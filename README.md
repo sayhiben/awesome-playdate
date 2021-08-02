@@ -91,6 +91,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Poly's Roly Rumble](https://www.patreon.com/rngparty) - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
 - [Mars after Midnight](https://dukope.itch.io/mars-after-midnight) - [Devlog](https://dukope.itch.io/mars-after-midnight)
 - [Klondike Solitaire for Playdate](https://github.com/rtsuk/crankstart-klondike)
+- [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
