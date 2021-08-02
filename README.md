@@ -47,6 +47,9 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 ### Dithering
 - [Stabilized dithering using sphere mapping](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) (_Return of the Obra Dinn_)
 
+### Procedural Generation
+- [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
+
 ## Graphics
 
 ### Sprite editors
@@ -78,8 +81,8 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
 - [Silverball Tactics](https://silverballtactics.com/) - [YouTube](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
 - [Crankin's Time Travel Adventure](https://uvula.jp/crankin) - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
-- [Poly's Roly Rumble](https://www.patreon.com/rngparty) - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF], [YouTube](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
-- [Mars after Midnight](https://dukope.itch.io/mars-after-midnight) - [Devlog](
+- [Poly's Roly Rumble](https://www.patreon.com/rngparty) - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
+- [Mars after Midnight](https://dukope.itch.io/mars-after-midnight) - [Devlog](https://dukope.itch.io/mars-after-midnight)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
