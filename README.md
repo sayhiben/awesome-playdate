@@ -95,7 +95,6 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 # Example Games & Repositories
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war) - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
-- [Tea at X'thulp's](https://chao.itch.io/tea-at-xthulps)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
