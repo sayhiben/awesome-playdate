@@ -52,10 +52,12 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 ## Developers
 - [Matt Sephton (@gingerbeardman)](https://twitter.com/gingerbeardman) - Games: _Daily Driver_
+- [Frank Jonen (@frankjonen)](https://twitter.com/frankjonen) - Games: [_Silverball Tactics_](https://silverballtactics.com/)
 
-# Development Blogs
+# Playdate Games & Dev Blogs
 - [Daily Driver](https://blog.gingerbeardman.com/tag/dailydriver/)
 - [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
+- [Silverball Tactics](https://silverballtactics.com/) - [YouTube](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
 
 # Official Links
 - [Official Playdate Site](https://play.date)
