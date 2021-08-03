@@ -85,6 +85,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 #### Procedural Generation
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for _Mars after Midnight_.
+- [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
 
 ### Graphics
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
