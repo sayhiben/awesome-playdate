@@ -120,7 +120,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [Vertex Pop Blog](http://www.vertexpop.com/blog/)
 - [Mars after Midnight (Devlog)](https://dukope.itch.io/mars-after-midnight)
 - [Poly's Roly Rumble (Patreon)](https://www.patreon.com/rngparty)
-  - Twitter (see above)
   - [Discord](http://discord.gg/BWW9YNF)
   - [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
 - [Pullfrog 2-Bits (Devlog)](https://amano.games/devlog)
