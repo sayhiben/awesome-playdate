@@ -157,7 +157,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
 - [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
 - [@serenityforge](https://twitter.com/serenityforge) - Developing _Flipper Lifter_.
-- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@castpixel](https://twitter.com/castpixel) + [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes: Up In Smoke_.
 - [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing [_HYPER METEOR_](http://www.vertexpop.com/hypermeteor/).
 - [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_.
 - [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
@@ -175,7 +175,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
 - [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
-- [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes_.
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
