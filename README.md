@@ -80,6 +80,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Game Programming Patterns (book)](https://gameprogrammingpatterns.com/) - The Web version is free.
 
 #### Graphics & Art
+- [Ditherpunk](https://surma.dev/things/ditherpunk/) - An article about monochrome image dithering.
 - [Stabilized dithering using sphere mapping](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) - A dithering implementation used in _Return of the Obra Dinn_.
 - [Playdate Art: Scale](https://donaldhays.com/2019/12/30/playdate-art-scale/) - Important notes on designing sprites, fonts, and tiles for the Playdate.
 
