@@ -124,7 +124,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [Official site](https://noblerobot.com/widgetsatchel-ii)
 
 ## Open Source Playdate Games & Example Code
-- [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions:
+- [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
   - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
     - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 
