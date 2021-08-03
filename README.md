@@ -10,11 +10,11 @@ A list of awesome resources for game development on Panic's Playdate console.
   - [Programming Frameworks & Languages](#programming-frameworks--languages)
   - [Development Concepts](#development-concepts)
   - [Graphics](#graphics)
+- [Open Source Playdate Games & Example Code](#open-source-playdate-games--example-code)
+- [Playdate Games & Dev Blogs](#playdate-games--dev-blogs)
 - [Social](#social)
   - [Discussion groups](#discussion-groups)
   - [Accounts to follow](#accounts-to-follow)
-- [Playdate Games & Dev Blogs](#playdate-games--dev-blogs)
-- [Open Source Playdate Games & Example Code](#open-source-playdate-games--example-code)
 
 ## Game Development
 
@@ -72,7 +72,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 #### C
 > ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see above) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
-- [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/)
+- [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
 
 #### Experimental & Other
 These projects represent experiments with the Playdate. Use at your own risk.
@@ -101,41 +101,13 @@ These projects represent experiments with the Playdate. Use at your own risk.
 ### Graphics
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
 
-## Social
-
-### Discussion groups
-- [Official Playdate Discord](https://discord.com/invite/zFKagQ2)
-- [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/) - A Playdate subreddit. Panic employees comment here occasionally.
-
-### Accounts to follow
-
-#### Official Playdate accounts
-- [@panic](https://twitter.com/panic) - Official Panic Twitter.
-- [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter.
-- [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news.
-
-#### Game Dev Accounts
-
-##### Playdate & Panic
-- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
-- [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
-- [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
-
-##### Third-party Devs
-- [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_ (see below).
-- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
-- [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
-- [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
-- [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_ (see below).
-- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
-- [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_ (see below).
-- [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_ (see below).
-- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing _HYPER METEOR_ (see below).
-- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_
-- [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_ (see below).
-- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_ (see below).
-- [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
+## Open Source Playdate Games & Example Code
+- [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
+- [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
+- [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
+  - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
+- [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions.
+- [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 
 ## Playdate Games & Dev Blogs
 - [Crankin's Time Travel Adventure (Official site)](https://uvula.jp/crankin)
@@ -157,14 +129,41 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [Instagram](https://www.instagram.com/silverballtactics/)
 - [Widget Satchel II: Return of Sprocket (Official site)](https://noblerobot.com/widgetsatchel-ii)
 
-## Open Source Playdate Games & Example Code
-- [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
-- [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
-- [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
-  - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
-- [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions.
-- [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
+## Social
 
+### Discussion groups
+- [Official Playdate Discord](https://discord.com/invite/zFKagQ2)
+- [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/) - A Playdate subreddit. Panic employees comment here occasionally.
+
+### Accounts to follow
+
+#### Official Playdate accounts
+- [@panic](https://twitter.com/panic) - Official Panic Twitter.
+- [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter.
+- [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news.
+
+#### Game Dev Accounts
+
+##### Playdate & Panic
+- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
+- [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
+- [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
+
+##### Third-party Devs
+- [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
+- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
+- [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
+- [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_.
+- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
+- [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_.
+- [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
+- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing _HYPER METEOR_.
+- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
+- [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
+- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_.
+- [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
