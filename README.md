@@ -105,11 +105,13 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
 ## Playdate Games & Dev Blogs
-- **[_Crankin's Time Travel Adventure_ (Official site)](https://uvula.jp/crankin)** - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8).
+- **[_Crankin's Time Travel Adventure_ (Official site)](https://uvula.jp/crankin)** 
+  - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c)
+  - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 - **[_Daily Driver_ (Dev Blog)](https://blog.gingerbeardman.com/tag/dailydriver/)** - , [Patreon](https://www.patreon.com/dailydriver) 
 - **[_Klondike Solitaire for Playdate_ (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)**
 - **[_Mars after Midnight_ (Devlog)](https://dukope.itch.io/mars-after-midnight)**
-- **[_Poly's Roly Rumble_ (Patreon)](https://www.patreon.com/rngparty)** - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
+- **[_Poly's Roly Rumble_ (Patreon)](https://www.patreon.com/rngparty)** - Twitter (see above), [Discord](http://discord.gg/BWW9YNF), [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
 - **[_Silverball Tactics_ (Official site)](https://silverballtactics.com/)** - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
 - **[_Widget Satchel II: Return of Sprocket_ (Official site)](https://noblerobot.com/widgetsatchel-ii)**
 
