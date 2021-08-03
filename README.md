@@ -144,8 +144,10 @@ These projects represent experiments with the Playdate. Use at your own risk.
 #### Game Dev Accounts
 
 ##### Playdate & Panic
+- [@gregmaletic](https://twitter.com/gregmaletic) - Project lead on Playdate at Panic.
 - [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
 - [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
+- [/u/gregmaletic](https://www.reddit.com/user/gregmaletic) - Project lead on Playdate at Panic, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
 
 ##### Third-party Devs
