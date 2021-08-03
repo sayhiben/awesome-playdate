@@ -140,6 +140,9 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
   - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 
+## Contributing
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
+
 ## Footnotes
 
 ### Official Links
@@ -166,6 +169,3 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 
 #### Misc. Articles of Note
 - [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform.
-
-## Contributions
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
