@@ -1,5 +1,5 @@
 # Awesome Playdate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg) <img src="awesome-playdate.gif" align="right" width="20%">
-A list of awesome resources for game development on Panic's [Playdate](https://play.date) console.
+A list of awesome resources for game development on Panic's Playdate console.
 
 > ⚠️ &nbsp; The Playdate is unreleased; this information is preliminary and "best effort"
 >
@@ -50,8 +50,8 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 ##### Noble Engine
 Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features
 
-- [Noble Engine on GitHub](https://github.com/NobleRobot/NobleEngine).
-- [Noble Engine Documentation](https://noblerobot.github.io/NobleEngine/).
+- [Noble Engine on GitHub](https://github.com/NobleRobot/NobleEngine)
+- [Noble Engine Documentation](https://noblerobot.github.io/NobleEngine/)
 
 #### C
 > ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see above) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
@@ -97,36 +97,21 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ##### Third-party Devs
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
-- [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight).
-- [@frankjonen](https://twitter.com/frankjonen) - Developing [_Silverball Tactics_](https://silverballtactics.com/).
-- [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing [_Daily Driver_](https://blog.gingerbeardman.com/tag/dailydriver/).
-- [@RNGParty](https://twitter.com/RNGParty) - Developing [_Poly's Roly Rumble_](https://twitter.com/RNGParty/status/1296842756023820289).
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin).
-- [@veubeke](https://twitter.com/veubeke) - Developing [_Down the Oubliette_](https://twitter.com/veubeke/status/1293216739111718913).
+- [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_ (see below).
+- [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_ (see below).
+- [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_ (see below).
+- [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_ (see below).
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_ (see below).
+- [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
 ## Playdate Games & Dev Blogs
-- **_Crankin's Time Travel Adventure_**
-  - [Official site](https://uvula.jp/crankin)
-  - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c)
-  - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
-- **_Daily Driver_**
-  - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/)
-  - [Patreon](https://www.patreon.com/dailydriver) 
-- **_Klondike Solitaire for Playdate_**
-  - [GitHub Repository](https://github.com/rtsuk/crankstart-klondike)
-- **_Mars after Midnight_**
-  - [Devlog](https://dukope.itch.io/mars-after-midnight)
-- **_Poly's Roly Rumble_**
-  - [Patreon](https://www.patreon.com/rngparty) 
-  - [Twitter](https://twitter.com/RNGParty)
-  - [Discord](http://discord.gg/BWW9YNF)
-  - [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
-- **_Silverball Tactics_**
-  - [Official site](https://silverballtactics.com/)
-  - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q)
-  - [Instagram](https://www.instagram.com/silverballtactics/)
-- **_Widget Satchel II: Return of Sprocket_**
-  - [Official site](https://noblerobot.com/widgetsatchel-ii)
+- **[_Crankin's Time Travel Adventure_ (Official site)](https://uvula.jp/crankin)** - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8).
+- **[_Daily Driver_ (Dev Blog)](https://blog.gingerbeardman.com/tag/dailydriver/)** - , [Patreon](https://www.patreon.com/dailydriver) 
+- **[_Klondike Solitaire for Playdate_ (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)**
+- **[_Mars after Midnight_ (Devlog)](https://dukope.itch.io/mars-after-midnight)**
+- **[_Poly's Roly Rumble_ (Patreon)](https://www.patreon.com/rngparty)** - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
+- **[_Silverball Tactics_ (Official site)](https://silverballtactics.com/)** - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
+- **[_Widget Satchel II: Return of Sprocket_ (Official site)](https://noblerobot.com/widgetsatchel-ii)**
 
 ## Open Source Playdate Games & Example Code
 
