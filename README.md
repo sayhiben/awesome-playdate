@@ -145,10 +145,11 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ##### Playdate & Panic
 - [@gregmaletic](https://twitter.com/gregmaletic) - Project lead on Playdate at Panic.
-- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
+- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_The Ratcheteer_].(https://twitter.com/shauninman/status/1402298970848772099?lang=en).
 - [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
 - [/u/gregmaletic](https://www.reddit.com/user/gregmaletic) - Project lead on Playdate at Panic, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
+- [@mrgan](https://twitter.com/mrgan) - Designer at Panic. Contributes to Discord server.
 
 ##### Third-party Devs
 - [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
@@ -163,7 +164,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
 - [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
 - [@dadakogames](https://twitter.com/dadakogames) - Developing [_Questy Chess_](https://questychess.com).
-- [@shauninman](https://twitter.com/shauninman) - Developing _The Racheteer_.
 - [@helvetica](https://twitter.com/helvetica) - Developing _Snak_.
 - [@GerudoGibbs](https://twitter.com/GerudoGibbs) - Developing _Spellcorked_.
 - [@ChuhaiLabs](https://twitter.com/ChuhaiLabs) - Developing _Whitewater Wipeout_.
