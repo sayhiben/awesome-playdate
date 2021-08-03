@@ -164,47 +164,47 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ##### Playdate & Panic
 - [@gregmaletic](https://twitter.com/gregmaletic) - Project lead on Playdate at Panic.
+- [@mrgan](https://twitter.com/mrgan) - Designer at Panic. Contributes to Discord server.
 - [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_The Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
 - [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
 - [/u/gregmaletic](https://www.reddit.com/user/gregmaletic) - Project lead on Playdate at Panic, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
-- [@mrgan](https://twitter.com/mrgan) - Designer at Panic. Contributes to Discord server.
 
 ##### Third-party Devs
-- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin).
-- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
-- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
-- [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
-- [@serenityforge](https://twitter.com/serenityforge) - Developing _Flipper Lifter_.
-- [@castpixel](https://twitter.com/castpixel) + [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes: Up In Smoke_.
-- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing [_HYPER METEOR_](http://www.vertexpop.com/hypermeteor/).
-- [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_, _Recommendation Dog_ and _Reel Steal_.
-- [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
-- [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
-- [@dadakogames](https://twitter.com/dadakogames) - Developing [_Questy Chess_](https://questychess.com).
-- [@cmakcmak](https://twitter.com/cmakcmak) - Developing _Saturday Edition_.
-- [@helvetica](https://twitter.com/helvetica) - Developing _Snak_.
-- [@GerudoGibbs](https://twitter.com/GerudoGibbs) - Developing _Spellcorked_.
-- [@ChuhaiLabs](https://twitter.com/ChuhaiLabs) - Developing _Whitewater Wipeout_.
-- [@bfod](https://twitter.com/bfod) - Developing _Zipper_.
-- [@mayli](https://twitter.com/mayli) - Developing _Boogie Loops_.
-- [@tpmcosoftworks](https://twitter.com/tpmcosoftworks) - Developing _Battleship Godios_.
 - [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
+- [@andreintg](https://twitter.com/andreintg) - Developing _Date of Life_.
+- [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
+- [@bfod](https://twitter.com/bfod) - Developing _Zipper_.
+- [@castpixel](https://twitter.com/castpixel) + [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@ChuhaiLabs](https://twitter.com/ChuhaiLabs) - Developing _Whitewater Wipeout_.
+- [@cmakcmak](https://twitter.com/cmakcmak) - Developing _Saturday Edition_.
+- [@dadakogames](https://twitter.com/dadakogames) - Developing [_Questy Chess_](https://questychess.com).
+- [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
+- [@davemakes](https://twitter.com/davemakes) - Developing _Robot Fishing_.
+- [@dmierau](https://twitter.com/dmierau) - Developing _Playmaker_.
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
 - [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight).
+- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
 - [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_.
+- [@GerudoGibbs](https://twitter.com/GerudoGibbs) - Developing _Spellcorked_.
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
-- [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
-- [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
-- [@noblerobot](https://twitter.com/noblerobot) - Developing [_Widget Satchel II: Return of Sprocket_](https://noblerobot.com/widgetsatchel-ii).
-- [@matthew_ej](https://twitter.com/matthew_ej) - Developing [_Oxy Con Brio_](https://www.loveofdrawing.com/oxy-con-brio.html).
-- [@andreintg](https://twitter.com/andreintg) - Developing _Date of Life_.
-- [@Rokashi](https://twitter.com/Rokashi) - Developing _Faraway Fairway_.
-- [@michaelfrei10](https://twitter.com/michaelfrei10) - Developing _Getting There_.
-- [@davemakes](https://twitter.com/davemakes) - Developing _Robot Fishing_.
+- [@helvetica](https://twitter.com/helvetica) - Developing _Snak_.
 - [@kataStatik](https://twitter.com/kataStatik) - Developing _Direct Drive_.
-- [@dmierau](https://twitter.com/dmierau) - Developing _Playmaker_.
+- [@matthew_ej](https://twitter.com/matthew_ej) - Developing [_Oxy Con Brio_](https://www.loveofdrawing.com/oxy-con-brio.html).
+- [@mayli](https://twitter.com/mayli) - Developing _Boogie Loops_.
+- [@michaelfrei10](https://twitter.com/michaelfrei10) - Developing _Getting There_.
+- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing [_HYPER METEOR_](http://www.vertexpop.com/hypermeteor/).
+- [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
+- [@noblerobot](https://twitter.com/noblerobot) - Developing [_Widget Satchel II: Return of Sprocket_](https://noblerobot.com/widgetsatchel-ii).
+- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
+- [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
+- [@Rokashi](https://twitter.com/Rokashi) - Developing _Faraway Fairway_.
+- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
+- [@serenityforge](https://twitter.com/serenityforge) - Developing _Flipper Lifter_.
+- [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_, _Recommendation Dog_ and _Reel Steal_.
+- [@tpmcosoftworks](https://twitter.com/tpmcosoftworks) - Developing _Battleship Godios_.
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin).
+- [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
