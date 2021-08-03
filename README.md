@@ -6,69 +6,78 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg)
 
 
-# Game Development
+## Game Development
 
-## Programming Frameworks & Languages
+### Programming Frameworks & Languages
 
-### Pulp + Pulpscript
-> A "no-code alternative to the full SDK", Pulp provides a "click-and-place" game editor right in your browser.
+#### Pulp + Pulpscript
+A "no-code alternative to the full SDK", Pulp provides a "click-and-place" game editor right in your browser.
 
-> ⚠️ &nbsp; Pulp and Pulpscript are not yet released to the public.
+> _⚠️ &nbsp; Pulp and Pulpscript are not yet released to the public._
 
-- [Playdate Pulp - playdate.wiki](https://playdate.wiki/development/playdate-plup)
+##### Articles on Pulp + Pulpscript
+Pulp and Pulpscript are still in development. See below for what's known about these tools.
+
 - [Panic unveils Pulp - Gamasutra](https://www.gamasutra.com/view/news/382905/Panic_unveils_Pulp_a_free_nocode_tool_for_creating_Playdate_games.php)
+- [Playdate Pulp - playdate.wiki](https://playdate.wiki/development/playdate-plup)
 
-### Lua
+#### Lua
 
-#### Playdate SDK
-> ⚠️ &nbsp; The Playdate SDK is not yet released to the public. Consider using [LÖVE](https://love2d.org/), which provides a similar API to the Playdate SDK
+##### Playdate SDK
+Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to [LÖVE](https://love2d.org/), and a lower-level C library for applications with higher performance needs.
+
+> _⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using [LÖVE](https://love2d.org/) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK._
 
 - ▶️ &nbsp;[Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator
 - ▶️ &nbsp; [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno)
 - [Early Playdate SDK release notes](https://twitter.com/playdate/status/1143268123098796033)
 
-#### LÖVE
-> The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
+##### Lua Libraries
+These libraries are commonly used in Playdate projects:
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d)
+##### LÖVE
+The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-#### Noble Engine
-> Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) for resources
+
+##### Noble Engine
+Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features
+
 - [Noble Engine on GitHub](https://github.com/NobleRobot/NobleEngine)
 - [Noble Engine Documentation](https://noblerobot.github.io/NobleEngine/)
 
-### C
-> ⚠️ &nbsp; The Playdate SDK is not yet released to the public. Consider using Lua's [LÖVE](https://love2d.org/), which provides a similar API to the Playdate SDK
+#### C
+> _⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using [LÖVE](https://love2d.org/) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK._
 
-### Rust
-> ⚠️ &nbsp; The Playdate currently has no plans for official Rust support
+#### Experimental
+These projects represent experiments with the Playdate. Use at your own risk.
 
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust
 
-## Development Concepts
+### Development Concepts
 
-### Game Programming Patterns
+#### Game Programming Patterns
 - [Game Programming Patterns (book)](https://gameprogrammingpatterns.com/) - The Web version is free
 
-### Graphics & Art
+#### Graphics & Art
 - [Stabilized dithering using sphere mapping](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) (_Return of the Obra Dinn_)
 - [Playdate Art: Scale](https://donaldhays.com/2019/12/30/playdate-art-scale/) - Important notes on designing sprites, fonts, and tiles for the Playdate
 
-### Procedural Generation
+#### Procedural Generation
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
 
-## Graphics
+### Graphics
 
-### Sprite editors
+#### Sprite editors
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate)
 
-# Social Media
+## Social Media
 
-## Forums & Groups
+### Forums & Groups
 - [Official Playdate Discord](https://discord.com/invite/zFKagQ2)
 - [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/)
 
-## Twitter
+### Twitter
 - [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter
 - [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news
 - [@panic](https://twitter.com/panic) - Official Panic Twitter
@@ -81,10 +90,10 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory
 
-## Reddit
+### Reddit
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic
 
-# Playdate Games & Dev Blogs
+## Playdate Games & Dev Blogs
 - [Daily Driver](https://www.patreon.com/dailydriver) - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/)
 - [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
 - [Silverball Tactics](https://silverballtactics.com/) - [YouTube](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
@@ -94,10 +103,10 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Klondike Solitaire for Playdate](https://github.com/rtsuk/crankstart-klondike)
 - [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries)
 
-# Example Games & Repositories
+## Open Source Playdate Games
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war) - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 
-# Official Links
+## Official Links
 - [Official Playdate Site](https://play.date)
 - [Playdate Developers Site](https://play.date/dev)
 - [Playdate Store](https://shop.play.date/)
@@ -107,12 +116,12 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Teenage Engineering](https://teenage.engineering/)
 - [Playdate Media Kit & FAQ](https://play.date/mediakit/)
 
-# News, Background, and Fluff
+## News, Background, and Fluff
 
-## News articles & videos
+### News articles & videos
 - ▶️ &nbsp; [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY)
 
-## Panic & TE Announcements
+### Panic & TE Announcements
 - ▶️ &nbsp; [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
 - ▶️ &nbsp; [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
 - 🔉 &nbsp; [2021-07-29] [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
@@ -121,3 +130,6 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
 - [2019-06-01] [Small Wonder: Edge Magazine's Playdate Cover Story](https://imgur.com/a/CWMNBvI)
 - [2019-05-31] ["The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
