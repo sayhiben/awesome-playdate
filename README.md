@@ -3,7 +3,8 @@ A list of awesome resources for [Playdate](https://play.date) game development a
 
 > _⚠️ &nbsp; Links may include spoilers_
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg)
+
 
 # Game Development
 
