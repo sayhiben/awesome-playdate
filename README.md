@@ -5,6 +5,33 @@ A list of awesome resources for game development on Panic's Playdate console.
 >
 > ⚠️ &nbsp; Links may include spoilers
 
+## Contents
+- [Game Development](#game-development)
+  - [Programming Frameworks & Languages](#programming-frameworks--languages)
+    - [Pulp + Pulpscript](#pulp--pulpscript)
+      - [Articles on Pulp + Pulpscript](#articles-on-pulp--pulpscript)
+    - [Lua](#lua)
+      - [Playdate SDK](#playdate-sdk)
+      - [Lua Libraries](#lua-libraries)
+      - [LÖVE](#love)
+      - [Noble Engine](#noble-engine)
+    - [C](#c)
+    - [Experimental](#experimental)
+  - [Development Concepts](#development-concepts)
+    - [Game Programming Patterns](#game-programming-patterns)
+    - [Graphics & Art](#graphics--art)
+    - [Procedural Generation](#procedural-generation)
+  - [Graphics](#graphics)
+- [Social](#social)
+  - [Discussion groups](#discussion-groups)
+  - [Accounts to follow](#accounts-to-follow)
+    - [Official Playdate accounts](#official-playdate-accounts)
+    - [Game Dev Accounts](#game-dev-accounts)
+      - [Playdate & Panic](#playdate--panic)
+      - [Third-party Devs](#third-party-devs)
+- [Playdate Games & Dev Blogs](#playdate-games--dev-blogs)
+- [Open Source Playdate Games & Example Code](#open-source-playdate-games--example-code)
+
 ## Game Development
 
 ### Programming Frameworks & Languages
@@ -42,7 +69,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 
-##### LÖVE
+##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
 See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) for resources.
