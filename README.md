@@ -79,6 +79,20 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
 
+##### Low-level Hardware Documentation & Datasheets
+This information was gleaned from a developer preview unit and screenshots.
+
+- [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
+  - [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
+  - [SPI Documentation](https://www.st.com/content/ccc/resource/training/technical/product_training/group0/3e/ee/cd/b7/84/4b/45/ee/STM32F7_Peripheral_SPI/files/STM32F7_Peripheral_SPI.pdf/_jcr_content/translations/en.STM32F7_Peripheral_SPI.pdf)
+  - [DMA Documentation](https://www.st.com/resource/en/application_note/dm00046011-using-the-stm32f2-stm32f4-and-stm32f7-series-dma-controller-stmicroelectronics.pdf)
+- [Audio: Cirrus 42L52CNZ](https://www.alldatasheet.com/datasheet-pdf/pdf/255532/CIRRUS/CS42L52-CNZ.html)
+- [eMMC: Kioxia THGBMDG5D1LBAIT 4GB](https://www.mouser.com/datasheet/2/1034/Toshiba_FAB_eMMC-1669846.pdf)
+- [SPI Flash: Winbond W25Q32JVS 4MB](https://www.mouser.com/datasheet/2/949/w25q32jv_revg_03272018_plus-1489806.pdf)
+- [DRAM: Winbond W967D6HBGX7I 16MB](https://www.mouser.com/datasheet/2/949/w967d6hb_datasheet_pkg_a01-003_20130529-1489841.pdf)
+- [LCD Module: Sharp LS027B7DH01A](https://www.sharpsde.com/fileadmin/products/Displays/Specs/LS027B7DH01A_06Aug12_Spec_LCP-1112041.pdf)
+  - [LCD Screen Programming Guide](https://www.sharpsde.com/fileadmin/products/Displays/2016_SDE_App_Note_for_Memory_LCD_programming_V1.3.pdf)
+
 #### Experimental & Other
 These projects represent experiments with the Playdate. Use at your own risk.
 
