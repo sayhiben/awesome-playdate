@@ -129,7 +129,9 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
   - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 
-## Official Links
+## Footnotes
+
+### Official Links
 - [Official Playdate Site](https://play.date)
 - [Playdate Developers Site](https://play.date/dev)
 - [Playdate Store](https://shop.play.date/)
@@ -139,9 +141,9 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 - [Teenage Engineering](https://teenage.engineering/)
 - [Playdate Media Kit & FAQ](https://play.date/mediakit/)
 
-## News, Background, and Fluff
+### News, Background, and Fluff
 
-### Panic & TE Announcements
+#### Panic & TE Announcements
 - [2021-07-29: Panic Podcast Episode 6: The Story of Playdate](https://bit.ly/2Vg3Hs5)
 - [2021-06-08: Say Hello to Playdate! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
 - [2021-06-08: Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
@@ -151,7 +153,7 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 - [2019-05-31: "The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
 - [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
 
-### Misc. Articles of Note
+#### Misc. Articles of Note
 - [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform.
 
 ## Contribute to awesome-playdate
