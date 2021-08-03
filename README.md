@@ -152,7 +152,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ##### Third-party Devs
 - [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_.
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin).
 - [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
 - [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
 - [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
