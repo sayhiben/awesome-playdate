@@ -1,4 +1,4 @@
-# Awesome Playdate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg) <img src="awesome-playdate.gif" align="right" width="20%">
+# Awesome Playdate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg) [<img src="awesome-playdate.gif" align="right" width="20%">](https://bit.ly/2TOnzli)
 A list of awesome resources for game development on Panic's Playdate console.
 
 > ⚠️ &nbsp; The Playdate is unreleased; this information is preliminary and "best effort"
