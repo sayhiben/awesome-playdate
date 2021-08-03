@@ -47,30 +47,31 @@ Panic plans to publish two versions of their SDK: a high-level API for Lua, simi
 The following libraries are expected to work well-enough on the Playdate:
 
 - [deep](https://github.com/Nikaoto/deep) - An "action-queue" library; helpful for things like z-indexing.
+- [GFXP](https://github.com/ivansergeev/gfxp) - A library with a collection of dithering patterns for the Playdate. An online version of the editor can be seen [here](https://ivansergeev.com/gfxp/).
 - [Knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua.
 - [Jumper](https://github.com/Yonaba/Jumper) - A pure Lua pathfinding library for grid-based games.
 - [lua-star](https://github.com/wesleywerner/lua-star) - A* pathfinding in pure Lua.
+- [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. [Docs here](https://noblerobot.github.io/NobleEngine/).
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 
 ##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
 
-See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) for resources.
+See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) for additional resources.
 
-##### Noble Engine
-Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features
-
-- [Noble Engine on GitHub](https://github.com/NobleRobot/NobleEngine)
-- [Noble Engine Documentation](https://noblerobot.github.io/NobleEngine/)
+- [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 
 #### C
 > ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see above) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
-#### Experimental
+- [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/)
+
+#### Experimental & Other
 These projects represent experiments with the Playdate. Use at your own risk.
 
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust.
+- [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
 
 ### Development Concepts
 
@@ -121,7 +122,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 - [Daily Driver (Dev Blog)](https://blog.gingerbeardman.com/tag/dailydriver/)
   - [Patreon](https://www.patreon.com/dailydriver) 
-- [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
 - [Mars after Midnight (Devlog)](https://dukope.itch.io/mars-after-midnight)
 - [Poly's Roly Rumble (Patreon)](https://www.patreon.com/rngparty)
   - Twitter (see above)
@@ -133,12 +133,13 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Widget Satchel II: Return of Sprocket (Official site)](https://noblerobot.com/widgetsatchel-ii)
 
 ## Open Source Playdate Games & Example Code
-
-### (Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020) - ([Link](https://itch.io/jam/unofficial-playdate-jam/entries))
-A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
-
+- [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
+- [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
   - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
+- [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
+- [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
+
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
