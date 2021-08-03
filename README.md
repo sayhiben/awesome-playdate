@@ -1,5 +1,6 @@
 # Awesome Playdate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg)
 A list of awesome resources for game development on Panic's [Playdate](https://play.date) console.
+[<img src="awesome-playdate.gif" align="right" width="50%">](https://play.date)
 
 > _⚠️ &nbsp; Links may include spoilers_
 
