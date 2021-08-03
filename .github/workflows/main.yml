@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [main]
 jobs:
-  Awesome_Lint:
+  awesome-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
