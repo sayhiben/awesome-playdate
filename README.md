@@ -33,6 +33,8 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 
 #### Lua
 
+- [Learn X in Y minutes, Where X=Lua](https://learnxinyminutes.com/docs/lua/) - A succinct Lua cheatsheet for developers with experience in other languages like Python.
+
 ##### Playdate SDK
 Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to LÖVE (see below), and a lower-level C library for applications with higher performance needs.
 
@@ -51,7 +53,9 @@ The following libraries are expected to work well-enough on the Playdate:
 - [Knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua.
 - [Jumper](https://github.com/Yonaba/Jumper) - A pure Lua pathfinding library for grid-based games.
 - [lua-star](https://github.com/wesleywerner/lua-star) - A* pathfinding in pure Lua.
-- [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. [Docs here](https://noblerobot.github.io/NobleEngine/).
+- [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. 
+  - [Documentation](https://noblerobot.github.io/NobleEngine/). 
+  - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk).
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 
