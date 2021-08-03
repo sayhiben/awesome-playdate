@@ -105,7 +105,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
 ## Playdate Games & Dev Blogs
-- **[_Crankin's Time Travel Adventure_ (Official site)](https://uvula.jp/crankin)** 
+- [Crankin's Time Travel Adventure_ (Official site)](https://uvula.jp/crankin)
   - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c)
   - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 - **[_Daily Driver_ (Dev Blog)](https://blog.gingerbeardman.com/tag/dailydriver/)** - , [Patreon](https://www.patreon.com/dailydriver) 
