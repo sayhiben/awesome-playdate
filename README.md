@@ -56,8 +56,8 @@ The following libraries are expected to work well-enough on the Playdate:
 - [lua-star](https://github.com/wesleywerner/lua-star) - A* pathfinding in pure Lua.
 - [middleclass](https://github.com/kikito/middleclass) - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 - [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. 
-  - [Documentation](https://noblerobot.github.io/NobleEngine/). 
-  - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk).
+  - [Documentation](https://noblerobot.github.io/NobleEngine/)
+  - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 - [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
@@ -171,7 +171,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 
 ## Footnotes
-
 ### Official Links
 - [Official Playdate Site](https://play.date)
 - [Playdate Developers Site](https://play.date/dev)
@@ -183,7 +182,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 - [Playdate Media Kit & FAQ](https://play.date/mediakit/)
 
 ### News, Background, and Fluff
-
 #### Panic & TE Announcements
 - [2021-07-29: Panic Podcast Episode 6: The Story of Playdate](https://bit.ly/2Vg3Hs5)
 - [2021-06-08: Say Hello to Playdate! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
