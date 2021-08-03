@@ -28,7 +28,7 @@ Panic plans to publish two versions of their SDK: a high-level API for Lua, simi
 > ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see below) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
 ###### Playdate SDK Previews
-- [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator
+- [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator.
 - [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno)
 - [Early Playdate SDK release notes](https://twitter.com/playdate/status/1143268123098796033)
 
@@ -119,7 +119,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Silverball Tactics (Official site)](https://silverballtactics.com/)
   - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q)
   - [Instagram](https://www.instagram.com/silverballtactics/)
-- [Widget Satchel II: Return of Sprocket (Official site)](https://noblerobot.com/widgetsatchel-ii)**
+- [Widget Satchel II: Return of Sprocket (Official site)](https://noblerobot.com/widgetsatchel-ii)
 
 ## Open Source Playdate Games & Example Code
 
