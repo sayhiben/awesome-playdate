@@ -9,12 +9,7 @@ A list of awesome resources for game development on Panic's Playdate console.
 - [Game Development](#game-development)
   - [Programming Frameworks & Languages](#programming-frameworks--languages)
     - [Pulp + Pulpscript](#pulp--pulpscript)
-      - [Articles on Pulp + Pulpscript](#articles-on-pulp--pulpscript)
     - [Lua](#lua)
-      - [Playdate SDK](#playdate-sdk)
-      - [Lua Libraries](#lua-libraries)
-      - [LÖVE](#love)
-      - [Noble Engine](#noble-engine)
     - [C](#c)
     - [Experimental](#experimental)
   - [Development Concepts](#development-concepts)
@@ -27,8 +22,6 @@ A list of awesome resources for game development on Panic's Playdate console.
   - [Accounts to follow](#accounts-to-follow)
     - [Official Playdate accounts](#official-playdate-accounts)
     - [Game Dev Accounts](#game-dev-accounts)
-      - [Playdate & Panic](#playdate--panic)
-      - [Third-party Devs](#third-party-devs)
 - [Playdate Games & Dev Blogs](#playdate-games--dev-blogs)
 - [Open Source Playdate Games & Example Code](#open-source-playdate-games--example-code)
 
@@ -183,5 +176,5 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 #### Misc. Articles of Note
 - [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform.
 
-## Contribute to awesome-playdate
+## Contributions
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
