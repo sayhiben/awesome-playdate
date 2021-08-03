@@ -151,21 +151,31 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
 
 ##### Third-party Devs
-- [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
-- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_.
+- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
+- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
 - [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
+- [@serenityforge](https://twitter.com/serenityforge) - Developing _Flipper Lifter_.
+- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing [_HYPER METEOR_](http://www.vertexpop.com/hypermeteor/).
+- [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_.
+- [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
+- [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
+- [@dadakogames](https://twitter.com/dadakogames) - Developing [_Questy Chess_](https://questychess.com).
+- [@shauninman](https://twitter.com/shauninman) - Developing _The Racheteer_.
+- [@helvetica](https://twitter.com/helvetica) - Developing _Snak_.
+- [@GerudoGibbs](https://twitter.com/GerudoGibbs) - Developing _Spellcorked_.
+- [@ChuhaiLabs](https://twitter.com/ChuhaiLabs) - Developing _Whitewater Wipeout_.
+- [@mayli](https://twitter.com/mayli) - Developing _Boogie Loops_.
+- [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
 - [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_.
-- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
 - [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_.
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
-- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing _HYPER METEOR_.
-- [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
-- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
 - [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
-- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_.
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
+- [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes_.
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
