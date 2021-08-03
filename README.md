@@ -26,14 +26,21 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to [LÖVE](https://love2d.org/), and a lower-level C library for applications with higher performance needs.
 
 > _⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using [LÖVE](https://love2d.org/) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK._
-> 
+
 ###### Playdate SDK Previews
 - ▶️ &nbsp;[Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator
 - ▶️ &nbsp; [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno)
 - [Early Playdate SDK release notes](https://twitter.com/playdate/status/1143268123098796033)
 
 ##### Lua Libraries
-These libraries are commonly used in Playdate projects:
+The following libraries are expected to work well-enough on the Playdate:
+
+- [deep](https://github.com/Nikaoto/deep) - An "action-queue" library; helpful for things like z-indexing
+- [Knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua
+- [Jumper](https://github.com/Yonaba/Jumper) - A pure Lua pathfinding library for grid-based games
+- [lua-star](https://github.com/wesleywerner/lua-star) - A* pathfinding in pure Lua
+- [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications
+- [tiny-ecs](https://github.com/bakpakin/tiny-ecs) An entity component system in pure Lua
 
 ##### LÖVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
@@ -67,8 +74,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
 
 ### Graphics
-
-#### Sprite editors
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate)
 
 ## Social
