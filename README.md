@@ -49,7 +49,7 @@ Panic plans to publish two versions of their SDK: a high-level API for Lua, simi
 ##### Lua Libraries
 The following libraries are expected to work well-enough on the Playdate:
 
-- [deep](https://github.com/Nikaoto/deep) - An "action-queue" library; helpful for things like z-indexing.
+- [deep](https://github.com/Nikaoto/deep) - An "action-queue" library; helpful for things like z-indexing (although the Playdate already has z-index support in its draw ordering).
 - [GFXP](https://github.com/ivansergeev/gfxp) - A library with a collection of dithering patterns for the Playdate. An online version of the editor can be seen [here](https://ivansergeev.com/gfxp/).
 - [Knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua.
 - [Jumper](https://github.com/Yonaba/Jumper) - A pure Lua pathfinding library for grid-based games.
