@@ -26,7 +26,8 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to [LÖVE](https://love2d.org/), and a lower-level C library for applications with higher performance needs.
 
 > _⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using [LÖVE](https://love2d.org/) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK._
-
+> 
+###### Playdate SDK Previews
 - ▶️ &nbsp;[Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator
 - ▶️ &nbsp; [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno)
 - [Early Playdate SDK release notes](https://twitter.com/playdate/status/1143268123098796033)
@@ -70,40 +71,62 @@ These projects represent experiments with the Playdate. Use at your own risk.
 #### Sprite editors
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate)
 
-## Social Media
+## Social
 
-### Forums & Groups
+### Discussion groups
 - [Official Playdate Discord](https://discord.com/invite/zFKagQ2)
-- [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/)
+- [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/) - A Playdate subreddit. Panic employees comment here from time to time
 
-### Twitter
+### Accounts to follow
+
+#### Official Playdate accounts
 - [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter
 - [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news
 - [@panic](https://twitter.com/panic) - Official Panic Twitter
-- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en)
-- [Matt Sephton (@gingerbeardman)](https://twitter.com/gingerbeardman) - Developing [_Daily Driver_](https://blog.gingerbeardman.com/tag/dailydriver/)
-- [Frank Jonen (@frankjonen)](https://twitter.com/frankjonen) - Developing [_Silverball Tactics_](https://silverballtactics.com/)
-- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin)
-- [@RNGParty](https://twitter.com/RNGParty) - Developing [_Poly's Roly Rumble_](https://twitter.com/RNGParty/status/1296842756023820289)
-- [@veubeke](https://twitter.com/veubeke) - Developing [_Down the Oubliette_](https://twitter.com/veubeke/status/1293216739111718913)
-- [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
-- [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory
 
-### Reddit
-- [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic
+#### Game Dev Accounts
+
+##### Playdate & Panic
+- [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en)
+- [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole
+
+##### Third-party Devs
+- [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory
+- [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight)
+- [@frankjonen](https://twitter.com/frankjonen) - Developing [_Silverball Tactics_](https://silverballtactics.com/)
+- [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing [_Daily Driver_](https://blog.gingerbeardman.com/tag/dailydriver/)
+- [@RNGParty](https://twitter.com/RNGParty) - Developing [_Poly's Roly Rumble_](https://twitter.com/RNGParty/status/1296842756023820289)
+- [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing [_Crankin's Time Travel Adventure_](https://uvula.jp/crankin)
+- [@veubeke](https://twitter.com/veubeke) - Developing [_Down the Oubliette_](https://twitter.com/veubeke/status/1293216739111718913)
 
 ## Playdate Games & Dev Blogs
-- [Daily Driver](https://www.patreon.com/dailydriver) - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/)
-- [Widget Satchel II: Return of Sprocket](https://noblerobot.com/widgetsatchel-ii)
-- [Silverball Tactics](https://silverballtactics.com/) - [YouTube](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q), [Instagram](https://www.instagram.com/silverballtactics/)
-- [Crankin's Time Travel Adventure](https://uvula.jp/crankin) - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c), [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
-- [Poly's Roly Rumble](https://www.patreon.com/rngparty) - [Twitter](https://twitter.com/RNGParty), [Discord](http://discord.gg/BWW9YNF), [YouTube](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
-- [Mars after Midnight](https://dukope.itch.io/mars-after-midnight) - [Devlog](https://dukope.itch.io/mars-after-midnight)
-- [Klondike Solitaire for Playdate](https://github.com/rtsuk/crankstart-klondike)
-- [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries)
+- **_Crankin's Time Travel Adventure_**
+  - [Official site](https://uvula.jp/crankin) 
+  - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c)
+  - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
+- **_Daily Driver_**
+  - [Dev Blog](https://blog.gingerbeardman.com/tag/dailydriver/)
+  - [Patreon](https://www.patreon.com/dailydriver) 
+- **_Klondike Solitaire for Playdate_**
+  - [GitHub Repository](https://github.com/rtsuk/crankstart-klondike)
+- **_Mars after Midnight_**
+  - [Devlog](https://dukope.itch.io/mars-after-midnight)
+- **_Poly's Roly Rumble_**
+  - [Patreon](https://www.patreon.com/rngparty) 
+  - [Twitter](https://twitter.com/RNGParty)
+  - [Discord](http://discord.gg/BWW9YNF)
+  - [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
+- **_Silverball Tactics_**
+  - [Official site](https://silverballtactics.com/)
+  - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q)
+  - [Instagram](https://www.instagram.com/silverballtactics/)
+- **_Widget Satchel II: Return of Sprocket_**
+  - [Official site](https://noblerobot.com/widgetsatchel-ii)
 
-## Open Source Playdate Games
-- [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war) - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
+## Open Source Playdate Games & Example Code
+- [(Unofficial) Playdate Anticipation Jam Submissions (Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam that resulted in the following submissions:
+  - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
+    - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 
 ## Official Links
 - [Official Playdate Site](https://play.date)
@@ -117,18 +140,18 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ## News, Background, and Fluff
 
-### News articles & videos
-- ▶️ &nbsp; [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY)
-
 ### Panic & TE Announcements
-- ▶️ &nbsp; [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
-- ▶️ &nbsp; [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
 - 🔉 &nbsp; [2021-07-29] [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
+- ▶️ &nbsp; [2021-06-08] [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
 - ▶️ &nbsp; [2021-06-08] [Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
+- ▶️ &nbsp; [2020-09-22] [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
 - [December 2019 Update](https://play.date/update-dec/)
 - [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
 - [2019-06-01] [Small Wonder: Edge Magazine's Playdate Cover Story](https://imgur.com/a/CWMNBvI)
-- [2019-05-31] ["The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
+- 🔉 &nbsp; [2019-05-31] ["The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
 
-## Contribute
+### Misc. Articles of Note
+- ▶️ &nbsp; [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform
+
+## Contribute to awesome-playdate
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
