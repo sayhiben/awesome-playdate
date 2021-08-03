@@ -66,6 +66,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [rxi/tick](https://github.com/rxi/tick) - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 - [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
+- [bump.lua](https://github.com/kikito/bump.lua) - A 2D colission detection library.
 
 ##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
