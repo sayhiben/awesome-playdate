@@ -160,7 +160,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@serenityforge](https://twitter.com/serenityforge) - Developing _Flipper Lifter_.
 - [@castpixel](https://twitter.com/castpixel) + [@Nelsormensch](https://twitter.com/Nelsormensch) - Developing _Forrest Byrnes: Up In Smoke_.
 - [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing [_HYPER METEOR_](http://www.vertexpop.com/hypermeteor/).
-- [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_.
+- [@SweetBabyInc](https://twitter.com/SweetBabyInc) - Developing _Lost Your Marbles_, _Recommendation Dog_ and _Reel Steal_.
 - [@aronegal](https://twitter.com/aronegal) - Developing _Omaze_.
 - [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
 - [@dadakogames](https://twitter.com/dadakogames) - Developing [_Questy Chess_](https://questychess.com).
@@ -173,11 +173,19 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@tpmcosoftworks](https://twitter.com/tpmcosoftworks) - Developing _Battleship Godios_.
 - [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
-- [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_.
+- [@dukope](https://twitter.com/dukope) - Developing [_Mars after Midnight_](https://dukope.itch.io/mars-after-midnight).
 - [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_.
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
 - [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
+- [@noblerobot](https://twitter.com/noblerobot) - Developing [_Widget Satchel II: Return of Sprocket_](https://noblerobot.com/widgetsatchel-ii).
+- [@matthew_ej](https://twitter.com/matthew_ej) - Developing [_Oxy Con Brio_](https://www.loveofdrawing.com/oxy-con-brio.html).
+- [@andreintg](https://twitter.com/andreintg) - Developing _Date of Life_.
+- [@Rokashi](https://twitter.com/Rokashi) - Developing _Faraway Fairway_.
+- [@michaelfrei10](https://twitter.com/michaelfrei10) - Developing _Getting There_.
+- [@davemakes](https://twitter.com/davemakes) - Developing _Robot Fishing_.
+- [@kataStatik](https://twitter.com/kataStatik) - Developing _Direct Drive_.
+- [@dmierau](https://twitter.com/dmierau) - Developing _Playmaker_.
 
 ## Contributing
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
