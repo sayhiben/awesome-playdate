@@ -59,6 +59,11 @@ The following libraries are expected to work well-enough on the Playdate:
   - [Documentation](https://noblerobot.github.io/NobleEngine/)
   - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
+- [rxi/classic](https://github.com/rxi/classic) - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+- [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua.
+- [rxi/lume](https://github.com/rxi/lume) - A collection of functions for Lua, geared towards game development.
+- [rxi/shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
+- [rxi/tick](https://github.com/rxi/tick) - A small Lua module that simplifies the calling of functions at a set interval or after a delay.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 - [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
 
