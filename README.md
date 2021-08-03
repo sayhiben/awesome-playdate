@@ -1,5 +1,5 @@
 # Awesome Playdate
-A list of awesome resources for [Playdate](https://play.date) game development and the [Playdate SDK](https://play.date/dev/)
+A list of awesome resources for game development on Panic's [Playdate](https://play.date) console.
 
 > _⚠️ &nbsp; Links may include spoilers_
 
