@@ -135,7 +135,7 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 
 ### Panic & TE Announcements
 - 🔉 &nbsp; [2021-07-29] [Panic Podcast Episode 6: The Story of Playdate](https://podcast.panic.com/#episode006)
-- ▶️ &nbsp; [2021-06-08] [Say Hello to Playdate!! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
+- ▶️ &nbsp; [2021-06-08] [Say Hello to Playdate! (Panic)](https://www.youtube.com/watch?v=HdF3CnFvxg4)
 - ▶️ &nbsp; [2021-06-08] [Playdate Update - 6/8/2021 (Panic)](https://www.youtube.com/watch?v=DeWGukDrc1U)
 - ▶️ &nbsp; [2020-09-22] [Make Games for Playdate (Panic)](https://www.youtube.com/watch?v=FH9HEmCwAvk)
 - [December 2019 Update](https://play.date/update-dec/)
@@ -144,7 +144,7 @@ A first "pre-Playdate" 1-bit game jam that resulted in the following submissions
 - 🔉 &nbsp; [2019-05-31] ["The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
 
 ### Misc. Articles of Note
-- ▶️ &nbsp; [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform
+- ▶️ &nbsp; [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform.
 
 ## Contribute to awesome-playdate
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
