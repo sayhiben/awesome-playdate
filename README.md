@@ -44,6 +44,7 @@ Panic plans to publish two versions of their SDK: a high-level API for Lua, simi
 - [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator.
 - [Playdate Unboxing + Project Setup](https://www.youtube.com/watch?v=LiCJF4TfWno)
 - [Early Playdate SDK release notes](https://twitter.com/playdate/status/1143268123098796033)
+- [Code sample in /r/PlaydateConsole](https://www.reddit.com/r/PlaydateConsole/comments/nw6is4/i_started_to_prototype_a_small_game_while_waiting/h18ilkg/)
 
 ##### Lua Libraries
 The following libraries are expected to work well-enough on the Playdate:
@@ -53,11 +54,13 @@ The following libraries are expected to work well-enough on the Playdate:
 - [Knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua.
 - [Jumper](https://github.com/Yonaba/Jumper) - A pure Lua pathfinding library for grid-based games.
 - [lua-star](https://github.com/wesleywerner/lua-star) - A* pathfinding in pure Lua.
+- [middleclass](https://github.com/kikito/middleclass) - A simple OOP library for Lua that introduces inheritance, operator overloads, static variables, and mixin support.
 - [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. 
   - [Documentation](https://noblerobot.github.io/NobleEngine/). 
   - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk).
 - [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
+- [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
 
 ##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
@@ -88,6 +91,9 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Stabilized dithering using sphere mapping](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) - A dithering implementation used in _Return of the Obra Dinn_.
 - [Playdate Art: Scale](https://donaldhays.com/2019/12/30/playdate-art-scale/) - Important notes on designing sprites, fonts, and tiles for the Playdate.
 
+#### Physics
+- [Video Game Physics Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Core physics material for game developers.
+
 #### Procedural Generation
 - [Making Martian Faces](https://dukope.itch.io/mars-after-midnight/devlog/263965/making-martian-faces) - Notes about generating characters for _Mars after Midnight_.
 - [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
@@ -112,14 +118,22 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ##### Playdate & Panic
 - [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
+- [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
 
 ##### Third-party Devs
+- [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_ (see below).
+- [@castpixel](https://twitter.com/castpixel) - Developing _Forrest Byrnes: Up In Smoke_.
+- [@davemakes](https://twitter.com/DaveMakes) - Developing _Executive Golf DX_ and other Playdate games.
 - [@Dovuro](https://twitter.com/Dovuro) - Misc. Jam games, including a version of Chess, and a port of Bubble Factory.
 - [@dukope](https://twitter.com/dukope) - Developing _Mars after Midnight_ (see below).
+- [@DuncanFyfe](https://twitter.com/DuncanFyfe) - Developing _Demon Quest 85_.
 - [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_ (see below).
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_ (see below).
+- [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing _HYPER METEOR_ (see below).
+- [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_
 - [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_ (see below).
+- [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
 - [@uvulaLLC](https://twitter.com/uvulaLLC) - Developing _Crankin's Time Travel Adventure_ (see below).
 - [@veubeke](https://twitter.com/veubeke) - Developing _Down the Oubliette_.
 
@@ -129,11 +143,15 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [Demo Video 2](https://www.youtube.com/watch?v=C8rv8HeSAs8)
 - [Daily Driver (Dev Blog)](https://blog.gingerbeardman.com/tag/dailydriver/)
   - [Patreon](https://www.patreon.com/dailydriver) 
+- [HYPER METEOR (Official site)](http://www.vertexpop.com/hypermeteor/)
+  - [Twitter](https://twitter.com/vertexpop)
+  - [Vertex Pop Blog](http://www.vertexpop.com/blog/)
 - [Mars after Midnight (Devlog)](https://dukope.itch.io/mars-after-midnight)
 - [Poly's Roly Rumble (Patreon)](https://www.patreon.com/rngparty)
   - Twitter (see above)
   - [Discord](http://discord.gg/BWW9YNF)
   - [YouTube Channel](https://www.youtube.com/channel/UC15JbSpnLmarkIVL3rQSxNg)
+- [Pullfrog 2-Bits (Devlog)](https://amano.games/devlog)
 - [Silverball Tactics (Official site)](https://silverballtactics.com/)
   - [YouTube Channel](https://www.youtube.com/channel/UC7TGO4RB663chmDe7VlZL6Q)
   - [Instagram](https://www.instagram.com/silverballtactics/)
@@ -174,6 +192,3 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 - [2019-06-01: Small Wonder: Edge Magazine's Playdate Cover Story](https://imgur.com/a/CWMNBvI)
 - [2019-05-31: "The Talk Show" - Interview with Cabel Sasser, Steven Frank, and Greg Maletic about Playdate](https://daringfireball.net/thetalkshow/2019/05/30/ep-252)
 - [Teenage Engineering: Introducing Playdate](https://teenage.engineering/designs/playdate)
-
-#### Misc. Articles of Note
-- [Engadget: Playdate hands-on](https://www.youtube.com/watch?v=5ykEZ_iExGY) - One of the more in-depth previews of the platform.
