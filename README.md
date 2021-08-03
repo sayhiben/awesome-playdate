@@ -36,9 +36,9 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 - [Learn X in Y minutes, Where X=Lua](https://learnxinyminutes.com/docs/lua/) - A succinct Lua cheatsheet for developers with experience in other languages like Python.
 
 ##### Playdate SDK
-Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to LÖVE (see below), and a lower-level C library for applications with higher performance needs.
+Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to LÖVE, and a lower-level C library for applications with higher performance needs.
 
-> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see below) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
+> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
 ###### Playdate SDK Previews
 - [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator.
@@ -70,7 +70,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 
 #### C
-> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE (see above) in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
+> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
 
@@ -160,6 +160,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@frankjonen](https://twitter.com/frankjonen) - Developing _Silverball Tactics_.
 - [@gingerbeardman](https://twitter.com/gingerbeardman) - Developing _Daily Driver_.
 - [@mobeenfikree](https://twitter.com/mobeenfikree) - Developing _HYPER METEOR_.
+- [@NicMagnier](https://twitter.com/nicmagnier) - Developing _Pick Pack Pup_.
 - [@Radstronomical](https://twitter.com/Radstronomical) - Developing _Casual Birder_.
 - [@RNGParty](https://twitter.com/RNGParty) - Developing _Poly's Roly Rumble_.
 - [@SamanthaZero](https://twitter.com/SamanthaZero) - Developing _Echoic Memory_.
