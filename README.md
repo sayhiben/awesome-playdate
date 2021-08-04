@@ -152,7 +152,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 ## Social
 
 ### Discussion groups
-- [Official Playdate Discord](https://discord.com/invite/zFKagQ2)
+- [Unofficial Playdate Discord](https://discord.com/invite/zFKagQ2)
 - [/r/PlaydateConsole/](https://www.reddit.com/r/PlaydateConsole/) - A Playdate subreddit. Panic employees comment here occasionally.
 
 ### Accounts to follow
@@ -168,7 +168,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@gregmaletic](https://twitter.com/gregmaletic) - Project lead on Playdate at Panic.
 - [@mrgan](https://twitter.com/mrgan) - Designer at Panic. Contributes to Discord server.
 - [@shauninman](https://twitter.com/shauninman) - Playdate Developer & Designer at Panic. Developing [_The Ratcheteer_](https://twitter.com/shauninman/status/1402298970848772099?lang=en).
-- [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole.
+- [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole and the unofficial Discord.
 - [/u/gregmaletic](https://www.reddit.com/user/gregmaletic) - Project lead on Playdate at Panic, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
 
