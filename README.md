@@ -79,6 +79,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 #### C
 > ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
+- [Playdate Game Development in C](https://rua.ua.es/dspace/bitstream/10045/117000/1/Playdate_game_development_in_C_Benavent_Ramon_Alberto.pdf) - Alberto Benavent Ramón's Bachelor's Thesis in Multimedia Engineering, explores the hardware and software of the Playdate
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
 
 ##### Low-level Hardware Documentation & Datasheets
