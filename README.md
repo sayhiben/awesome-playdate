@@ -103,6 +103,11 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
 
+### Development & Graphics tools
+
+- [Tiled](https://www.mapeditor.org/) - 2D map editor
+- [Thrshold](https://www.figma.com/community/plugin/776033210163988440/Thrshold) - Figma plugin to apply a threshold effect filter
+
 ### Development Concepts
 
 #### Game Programming Patterns
