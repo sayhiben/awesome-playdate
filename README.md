@@ -73,6 +73,7 @@ The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the
 
 See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) for additional resources.
 
+- [Sheepolution's "How to LÖVE" tutorial](https://sheepolution.com/learn/book/contents) - An oft-recommended intro to game development in Lua. Most concepts should be transferable to Playdate
 - [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 
 #### C
