@@ -12,3 +12,5 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+      - name: Alex Recommends
+        uses: brown-ccv/alex-recommends@v1.2.1
