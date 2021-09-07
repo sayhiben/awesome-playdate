@@ -30,6 +30,7 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 
 - [Panic unveils Pulp - Gamasutra](https://www.gamasutra.com/view/news/382905/Panic_unveils_Pulp_a_free_nocode_tool_for_creating_Playdate_games.php)
 - [Playdate Pulp - playdate.wiki](https://playdate.wiki/development/playdate-plup)
+- [Playdate Pulp - Gamedeveloper.com](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
 
 #### Lua
 
