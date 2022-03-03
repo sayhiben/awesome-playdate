@@ -23,10 +23,10 @@ A list of awesome resources for game development on Panic's Playdate console.
 #### Pulp + Pulpscript
 A "no-code alternative to the full SDK", Pulp provides a "click-and-place" game editor right in your browser.
 
-> ⚠️ &nbsp; Pulp and Pulpscript are not yet released to the public.
+- [Pulp](https://play.date/pulp/)
+- [The Official Pulp Forum](https://devforum.play.date/c/pulp/46)
 
 ##### Articles on Pulp + Pulpscript
-Pulp and Pulpscript are still in development. See below for what's known about these tools.
 
 - [Panic unveils Pulp - Gamasutra](https://www.gamasutra.com/view/news/382905/Panic_unveils_Pulp_a_free_nocode_tool_for_creating_Playdate_games.php)
 - [Playdate Pulp - playdate.wiki](https://playdate.wiki/development/playdate-plup)
@@ -37,9 +37,11 @@ Pulp and Pulpscript are still in development. See below for what's known about t
 - [Learn X in Y minutes, Where X=Lua](https://learnxinyminutes.com/docs/lua/) - A succinct Lua cheatsheet for developers with experience in other languages like Python.
 
 ##### Playdate SDK
-Panic plans to publish two versions of their SDK: a high-level API for Lua, similar to LÖVE, and a lower-level C library for applications with higher performance needs.
+Panic publishes two versions of their SDK: a high-level API for Lua, similar to LÖVE, and a lower-level C library for applications with higher performance needs.
 
-> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
+- [Playdate SDK Lua Documentation](https://sdk.play.date/inside-playdate)
+- [Playdate SDK C Documentation](https://sdk.play.date/inside-playdate-with-c)
+- [Develop for Playdate](https://play.date/dev/)
 
 ###### Playdate SDK Previews
 - [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator.
@@ -79,7 +81,6 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 - [love-playdate-emulation](https://github.com/cadin/love-playdate-emulation) - A basic template for previewing games built with LÖVE in a Playdate-like environment.
 
 #### C
-> ⚠️ &nbsp; The Playdate SDKs are not yet released to the public. Consider using LÖVE in the meantime; Panic has reported that LÖVE provides a similar API to the Playdate SDK.
 
 - [Playdate Game Development in C](https://rua.ua.es/dspace/bitstream/10045/117000/1/Playdate_game_development_in_C_Benavent_Ramon_Alberto.pdf) - Alberto Benavent Ramón's Bachelor's Thesis in Multimedia Engineering, explores the hardware and software of the Playdate
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
