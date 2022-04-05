@@ -133,6 +133,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
 
 ## Open Source Playdate Games & Example Code
+- [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery)
 - [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
 - [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
