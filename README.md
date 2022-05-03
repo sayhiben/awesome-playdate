@@ -88,6 +88,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 ##### Low-level Hardware Documentation & Datasheets
 This information was gleaned from a developer preview unit and screenshots.
 
+- [Playdate Reverse Engineering](https://github.com/jaames/playdate-reverse-engineering) - Unofficial documentation covering the Playdate's file formats, USB serial commands, and server API.
 - [CPU: ST STM32F746](https://www.st.com/resource/en/datasheet/stm32f745ie.pdf)
   - [MCU Reference Manual](https://www.st.com/resource/en/reference_manual/dm00124865-stm32f75xxx-and-stm32f74xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
   - [CPU Programming Manual](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
@@ -106,6 +107,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
+- [pd-usb](https://github.com/jaames/pd-usb) - JavaScript librarty for interacting with a Playdate connected over USB.
 
 ### Development & Graphics tools
 
@@ -140,6 +142,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
   - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
 - [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam with Playdate-inspired submissions.
 - [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
+- [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
 
 ## Playdate Games & Dev Blogs
 - [Crankin's Time Travel Adventure (Official site)](https://uvula.jp/crankin)
