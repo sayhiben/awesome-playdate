@@ -106,6 +106,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
+- [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
 
 ### Development & Graphics tools
 
