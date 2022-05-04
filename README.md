@@ -1,3 +1,9 @@
+<!--lint disable awesome-github-->
+<!--lint disable double-link-->
+<!--lint disable awesome-list-item-->
+<!--lint disable awesome-toc-->
+<!-- todo: address these 👆 and reenable lint rules -->
+
 # Awesome Playdate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-playdate/actions/workflows/main.yml/badge.svg) [<img src="awesome-playdate.gif" align="right" width="20%">](https://bit.ly/2TOnzli)
 A list of awesome resources for game development on Panic's Playdate console.
 
@@ -106,6 +112,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
+- [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
 
 ### Development & Graphics tools
 
