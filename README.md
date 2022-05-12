@@ -75,6 +75,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - An entity component system in pure Lua.
 - [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
 - [bump.lua](https://github.com/kikito/bump.lua) - A 2D colission detection library.
+- [philanc/plc](https://github.com/philanc/plc) - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
 
 ##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
@@ -148,6 +149,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam with Playdate-inspired submissions.
 - [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
+- [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) - Lua/Playdate port of a classic casual Flash game.
 
 ## Playdate Games & Dev Blogs
 - [Crankin's Time Travel Adventure (Official site)](https://uvula.jp/crankin)
