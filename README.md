@@ -151,6 +151,16 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
 - [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) - Lua/Playdate port of a classic casual Flash game.
 
+## Tutorials & How-Tos
+
+### Playdate SDK
+- [How to Make a Simple Playdate Game](https://www.youtube.com/watch?v=BG-pbLrY3ro&list=PLlMPQvEA0GZPOuKJyhSr3Ra0vrpCiBTnb&index=7) - How to make a simple Space Invaders-inspired game (Lua)
+- [Unlicensed Paddle Game](https://github.com/mostlybits/playdate-unlicensed-paddle-game-tutorial) - How to build a Pong clone (Lua)
+
+### Pulp
+- [Pulp Pong](https://devforum.play.date/t/pulp-pong-dev-tutorial/2315) - How to recreate the all-time classic Pong
+
+
 ## Playdate Games & Dev Blogs
 - [Crankin's Time Travel Adventure (Official site)](https://uvula.jp/crankin)
   - [Demo Video](https://www.youtube.com/watch?v=rwxrfgCIZ-c)
