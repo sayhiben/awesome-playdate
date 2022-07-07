@@ -14,6 +14,7 @@ A list of awesome resources for game development on Panic's Playdate console.
   - [Programming Frameworks & Languages](#programming-frameworks--languages)
   - [Development Concepts](#development-concepts)
   - [Graphics](#graphics)
+  - [Fonts](#fonts)
 - [Open Source Playdate Games & Example Code](#open-source-playdate-games--example-code)
 - [Playdate Games & Dev Blogs](#playdate-games--dev-blogs)
 - [Social](#social)
@@ -139,6 +140,10 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Graphics
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
+
+### Fonts
+
+- [Playdate Arcade Fonts](https://idleberg.github.io/playdate-arcade-fonts/) - Collection of classic arcade fonts for the Playdate.
 
 ## Open Source Playdate Games & Example Code
 - [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery)
