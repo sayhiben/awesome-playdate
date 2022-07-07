@@ -144,7 +144,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 ### Fonts
 
 - [Playdate Arcade Fonts](https://idleberg.github.io/playdate-arcade-fonts/) - Collection of classic arcade fonts for the Playdate.
-
+- [PDFontTool](https://github.com/abenokobo/PDFontTool) - Converts TrueType Font, OpenType Font to Playdate Font.
 ## Open Source Playdate Games & Example Code
 - [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery)
 - [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
