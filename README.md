@@ -46,6 +46,7 @@ Panic publishes two versions of their SDK: a high-level API for Lua, similar to 
 - [Playdate SDK Lua Documentation](https://sdk.play.date/inside-playdate)
 - [Playdate SDK C Documentation](https://sdk.play.date/inside-playdate-with-c)
 - [Develop for Playdate](https://play.date/dev/)
+- [Install with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
 
 ###### Playdate SDK Previews
 - [Playdate Programming LIVE](https://www.youtube.com/watch?v=MZRtfiD_308&t=2629s) - 50 minute long programming demo that shows some of the SDK and simulator.
