@@ -121,6 +121,8 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 - [Tiled](https://www.mapeditor.org/) - 2D map editor
 - [Thrshold](https://www.figma.com/community/plugin/776033210163988440/Thrshold) - Figma plugin to apply a threshold effect filter
+- [LDtk](https://ldtk.io) - A modern 2D level editor with a strong focus on user-friendliness
+- [PlaydateLDtkImporter](https://github.com/NicMagnier/PlaydateLDtkImporter) - Load tilemaps created with LDtk in playdate games
 
 ### Development Concepts
 
