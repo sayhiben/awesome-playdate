@@ -143,6 +143,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ### Graphics
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
+- [Memory Icons](https://github.com/Pictogrammers/Memory) - Open Source 1bit icon set
 
 ### Fonts
 
