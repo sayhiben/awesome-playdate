@@ -44,11 +44,14 @@ A "no-code alternative to the full SDK", Pulp provides a "click-and-place" game 
 ##### Playdate SDK
 Panic publishes two versions of their SDK: a high-level API for Lua, similar to LÖVE, and a lower-level C library for applications with higher performance needs.
 
+###### Official
 - [Playdate SDK Lua Documentation](https://sdk.play.date/inside-playdate)
 - [Playdate SDK C Documentation](https://sdk.play.date/inside-playdate-with-c)
 - [Develop for Playdate](https://play.date/dev/)
-- [Install with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
-- [Playdate SDK and Docker](https://github.com/hjhart/playdate-docker)
+
+###### Unofficial
+- [Install Playdate SDK with Package Managers](https://gist.github.com/idleberg/e246f7a582ac173d156c60ec23ce2af0)
+- [Playdate SDK Docker Image](https://github.com/hjhart/playdate-docker)
 
 
 ###### Playdate SDK Previews
