@@ -121,6 +121,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
 - [VSCode-PlaydateTemplateForLinux](https://github.com/imrmnabil/VSCode-PlaydateTemplateForLinux) - VSCode autocompletion with the Playdate simulator. Linux based system only.
+- [playdate-vscode-build-macos](https://github.com/milkbottlelough/playdate-vscode-build-macos) - VSCode one click build and simple starter template. macOS only.
 - [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
 - [pd-usb](https://github.com/jaames/pd-usb) - JavaScript librarty for interacting with a Playdate connected over USB.
 
