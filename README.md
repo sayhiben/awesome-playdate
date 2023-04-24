@@ -124,6 +124,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [playdate-vscode-build-macos](https://github.com/milkbottlelough/playdate-vscode-build-macos) - VSCode one click build and simple starter template. macOS only.
 - [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
 - [pd-usb](https://github.com/jaames/pd-usb) - JavaScript librarty for interacting with a Playdate connected over USB.
+- [playbit](https://github.com/GamesRightMeow/playbit): Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 
 ### Development & Graphics tools
 
