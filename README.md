@@ -73,7 +73,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. 
   - [Documentation](https://noblerobot.github.io/NobleEngine/)
   - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
-- [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
+- [profile.lua](https://github.com/2dengine/profile.lua) - Performance profiling for Lua applications.
 - [rxi/classic](https://github.com/rxi/classic) - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua.
 - [rxi/lume](https://github.com/rxi/lume) - A collection of functions for Lua, geared towards game development.
