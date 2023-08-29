@@ -157,23 +157,26 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 - [Playdate Arcade Fonts](https://idleberg.github.io/playdate-arcade-fonts/) - Collection of classic arcade fonts for the Playdate.
 - [PDFontTool](https://github.com/abenokobo/PDFontTool) - Converts TrueType Font, OpenType Font to Playdate Font.
+
 ## Open Source Playdate Games & Example Code
 - [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery)
 - [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
+- [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) - Lua/Playdate port of a classic casual Flash game.
 - [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
+- [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
 - [Oops You Started An Intergalactic War](https://monkeymad2.itch.io/oops-you-started-an-intergalactic-war)
   - [GitHub Repo](https://github.com/neil-morrison44/playdate_jam_etiquette)
+- [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
+- [PickPackPup](https://github.com/NicMagnier/PickPackPup/)
 - [Playdate Anticipation Jam Submissions (Unofficial. - Nov. 2020)](https://itch.io/jam/unofficial-playdate-jam/entries) - A first "pre-Playdate" 1-bit game jam with Playdate-inspired submissions.
-- [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
+- [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
-- [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) - Lua/Playdate port of a classic casual Flash game.
+- [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 - [Sketch, Share, Solve](https://github.com/veu/sketch-share-solve) – Sketch, Share, Solve is a nonogram game for the Playdate.
 - [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
 - [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
 - [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
 - [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) - Brickbreaker Clone for Playdate
-
-
 
 ## Tutorials & How-Tos
 
