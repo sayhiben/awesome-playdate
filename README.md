@@ -125,6 +125,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
 - [pd-usb](https://github.com/jaames/pd-usb) - JavaScript librarty for interacting with a Playdate connected over USB.
 - [playbit](https://github.com/GamesRightMeow/playbit): Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
+- [GitHub Action: get-playdate-sdk](https://github.com/marketplace/actions/get-playdate-sdk) Installs the Playdate SDK in your GitHub Actions Workflows
 
 ### Development & Graphics tools
 
