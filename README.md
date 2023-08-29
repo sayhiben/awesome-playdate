@@ -171,6 +171,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
 - [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
 - [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
+- [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) - Brickbreaker Clone for Playdate
 
 
 
