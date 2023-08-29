@@ -73,7 +73,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [Noble Engine](https://github.com/NobleRobot/NobleEngine) - Noble Engine is a Lua-based game engine library built on top of the Playdate SDK that offers a variety of helpful features. 
   - [Documentation](https://noblerobot.github.io/NobleEngine/)
   - [Presentation from the creator](https://www.youtube.com/watch?v=fL46v-QmnNk)
-- [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/master/) - Performance profiling for Lua applications.
+- [profile.lua](https://github.com/2dengine/profile.lua) - Performance profiling for Lua applications.
 - [rxi/classic](https://github.com/rxi/classic) - A tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua.
 - [rxi/lume](https://github.com/rxi/lume) - A collection of functions for Lua, geared towards game development.
@@ -173,6 +173,10 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
 - [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 - [Sketch, Share, Solve](https://github.com/veu/sketch-share-solve) – Sketch, Share, Solve is a nonogram game for the Playdate.
+- [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
+- [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
+- [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
+- [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) - Brickbreaker Clone for Playdate
 
 ## Tutorials & How-Tos
 
