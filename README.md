@@ -176,7 +176,6 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Playnote Studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate.
 - [Six Card Golf](https://github.com/CGagnier/six-card-golf) - A love2d card game meant to be ported to Playdate.
 - [Sketch, Share, Solve](https://github.com/veu/sketch-share-solve) – Sketch, Share, Solve is a nonogram game for the Playdate.
-- [Playlate](https://github.com/downie/playlate) – A template for Playdate to explore Playdate SDK and build your games faster.
 - [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
 - [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
 - [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) - Brickbreaker Clone for Playdate
@@ -222,6 +221,8 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [@panic](https://twitter.com/panic) - Official Panic Twitter.
 - [@playdate](https://twitter.com/playdate/) - Official Playdate Twitter.
 - [@playdateAlerts](https://twitter.com/playdateAlerts) - Official Playdate news.
+- [@panic@panic.social](https://social.panic.com/@panic) - Official Panic Mastodon.
+- [@playdate@panic.social](https://social.panic.com/@playdate) - Official Playdate Mastodon.
 
 #### Game Dev Accounts
 
@@ -232,6 +233,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [/u/dave__h](https://www.reddit.com/user/dave__h) - Playdate Developer, contributes to /r/PlaydateConsole and the unofficial Discord.
 - [/u/gregmaletic](https://www.reddit.com/user/gregmaletic) - Project lead on Playdate at Panic, contributes to /r/PlaydateConsole.
 - [/u/sardinebrunch](https://www.reddit.com/user/sardinebrunch) - Playdate Developer at Panic, contributes to /r/PlaydateConsole.
+- [@cabel@social.panic.com](https://social.panic.com/@cabel) - Playdate Developer at Panic.
 
 ##### Third-party Devs
 - [@amanogames](https://twitter.com/amanogames_) - Developing _Pullfrog 2-Bits_.
@@ -282,6 +284,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md)
 - [Panic Blog](https://panic.com/blog/)
 - [Teenage Engineering](https://teenage.engineering/)
 - [Playdate Media Kit & FAQ](https://play.date/mediakit/)
+- [Panic Mastodon Instance](https://social.panic.com/)
 
 ### News, Background, and Fluff
 #### Panic & TE Announcements
