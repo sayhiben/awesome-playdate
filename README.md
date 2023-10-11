@@ -162,6 +162,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 ## Open Source Playdate Games & Example Code
 - [Artsy Gallery](https://github.com/artsy/hack-playdate-gallery)
+- [Factory Farming](https://github.com/timboe/FactoryFarming)
 - [Game of Life](https://github.com/Whitebrim/Game-of-life-love2d-playdate) - An implementation of Conway's Game of Life meant to provide a template for games to be built in Love2d and ported to Playdate.
 - [Gimme Friction Baby](https://github.com/notpeter/playdate-friction) - Lua/Playdate port of a classic casual Flash game.
 - [Klondike Solitaire for Playdate (GitHub Repo)](https://github.com/rtsuk/crankstart-klondike)
