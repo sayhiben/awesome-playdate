@@ -154,6 +154,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 ### Graphics
 - [DrawDate](https://neil.today/drawdate/) - 1-bit, browser-based sprite editor. [GitHub Source](https://github.com/neil-morrison44/drawdate).
 - [Memory Icons](https://github.com/Pictogrammers/Memory) - Open Source 1bit icon set
+- [Pixen](https://pixenapp.com) - Pixel art editor for Mac and iPad, with recent optimizations for [Playdate graphics creation](https://furnacecreek.org/blog/2024-01-28-pixen-and-playdate).
 
 ### Fonts
 
