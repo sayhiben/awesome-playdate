@@ -118,6 +118,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 
 - [Crankstart](https://github.com/rtsuk/crankstart) - An experimental Rust crate to write games for the Playdate in Rust.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
+- [playdate4j](https://github.com/am1goo/playdate4j) - Unofficial Java binding for Playdate C API.
 - [playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK.
 - [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
 - [VSCode-PlaydateTemplateForLinux](https://github.com/imrmnabil/VSCode-PlaydateTemplateForLinux) - VSCode autocompletion with the Playdate simulator. Linux based system only.
