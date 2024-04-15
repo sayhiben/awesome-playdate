@@ -83,6 +83,7 @@ The following libraries are expected to work well-enough on the Playdate:
 - [vector.lua](https://github.com/themousery/vector.lua) - An alternative 2D vector library for Lua.
 - [bump.lua](https://github.com/kikito/bump.lua) - A 2D colission detection library.
 - [philanc/plc](https://github.com/philanc/plc) - Pure Lua Crypto. Crpytographic functions and utilities implemented in pure Lua.
+- [Keyboard Based Menu](https://github.com/AavaGames/playdate-keyboard-based-menu-ui) - A menu that uses the playdate's keyboard to navigate and select.
 
 ##### LOVE
 The Lua-based [LÖVE](https://love2d.org/) framework offers a similar API to the Playdate Lua SDK, useful for prototyping before the public release of the Playdate SDK.
