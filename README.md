@@ -121,7 +121,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [playdate-rs](https://github.com/igaryhe/playdate-rs) - Unofficial Rust binding for Playdate C API.
 - [playdate4j](https://github.com/am1goo/playdate4j) - Unofficial Java binding for Playdate C API.
 - [playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK.
-- [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. Windows only.
+- [VSCode-PlaydateTemplate](https://github.com/Whitebrim/VSCode-PlaydateTemplate) - VSCode autocompletion with the Playdate simulator. For Windows & Linux.
 - [VSCode-PlaydateTemplateForLinux](https://github.com/imrmnabil/VSCode-PlaydateTemplateForLinux) - VSCode autocompletion with the Playdate simulator. Linux based system only.
 - [playdate-vscode-build-macos](https://github.com/milkbottlelough/playdate-vscode-build-macos) - VSCode one click build and simple starter template. macOS only.
 - [mini3d-plus](https://github.com/nstbayless/mini3d-plus) - 3D engine based on the mini3d library provided in the SDK examples.
