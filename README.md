@@ -97,6 +97,7 @@ See [love2d-community/awesome-love2d](https://github.com/love2d-community/awesom
 
 - [Playdate Game Development in C](https://rua.ua.es/dspace/bitstream/10045/117000/1/Playdate_game_development_in_C_Benavent_Ramon_Alberto.pdf) - Alberto Benavent Ramón's Bachelor's Thesis in Multimedia Engineering, explores the hardware and software of the Playdate
 - [Taxman Engine](https://github.com/McDevon/taxman-engine) - A 2D, platform-independent game engine designed for the Playdate. Online demo [here](https://mcdevon.github.io/taxman-wasm/).
+- [Prismatic Engine](https://github.com/Sheep42/prismatic-engine) - A 2D game engine designed for faster prototyping and simplified development with the Playdate C API.
 
 ##### Low-level Hardware Documentation & Datasheets
 This information was gleaned from a developer preview unit and screenshots.
