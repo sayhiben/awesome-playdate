@@ -129,6 +129,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [pd-usb](https://github.com/jaames/pd-usb) - JavaScript librarty for interacting with a Playdate connected over USB.
 - [playbit](https://github.com/GamesRightMeow/playbit): Build cross-platform Playdate games, create build scripts, and utilize preprocessor macros!
 - [GitHub Action: get-playdate-sdk](https://github.com/marketplace/actions/get-playdate-sdk) Installs the Playdate SDK in your GitHub Actions Workflows
+- [pd.sh](https://github.com/dknight/pd.sh/): A shell script to create a new project from a template, run/stop simulator directly from the terminal.
 
 ### Development & Graphics tools
 
