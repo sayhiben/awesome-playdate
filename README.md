@@ -184,6 +184,7 @@ These projects represent experiments with the Playdate. Use at your own risk.
 - [Panels](https://github.com/cadin/panels) – Build interactive comics for the Playdate console.
 - [Mini3D+](https://github.com/nstbayless/mini3d-plus) – Enhanced 3D engine for the Panic Playdate.
 - [BrickCrusher 2000](https://github.com/aliasaria/BrickCrusher2020) - Brickbreaker Clone for Playdate
+- [PDSnake](https://codeberg.org/bcodes/pdsnake/) - No-frills, public domain Snake for Playdate 
 
 ## Tutorials & How-Tos
 
